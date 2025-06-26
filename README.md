@@ -1,1 +1,2 @@
-# new_repo editing 2
+# new_repo editing 3
+added collabrator
